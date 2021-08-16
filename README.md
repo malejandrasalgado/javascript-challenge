@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose of this challenge is to apply and complement the knowledge and skills acquired **Javascript **,**HTML**
+The purpose of this challenge is to apply and complement the knowledge and skills acquired **Javascript** and, **HTML**
 
 The task involves:
 
@@ -22,7 +22,7 @@ On GitHub the following task where required
 ## Step 1 - Create the files
 
 1. Create the UFO level 1
-2. Create the UFO level 1
+2. Create the UFO level 2
 
 ### HTML
 
@@ -33,5 +33,4 @@ On GitHub the following task where required
 
 1. Write the the code to append the data into the HTML file and filter the data by the date
 
-2.1. Write the the code to append the data into the HTML file and filter the data any field tthat is in the filter table
-
+2. Write the the code to append the data into the HTML file and filter the data any field tthat is in the filter table
